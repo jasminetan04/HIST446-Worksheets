@@ -44,18 +44,17 @@ I have to take note of exactly what I am spelling out in my code and pay attenti
 
 ---
 
-### Challenge 2: [Brief descriptive title]
+### Challenge 2: Figuring out how to run 10 rows or the last 6 rows of a dataset
 
 **What I was trying to do:**
-[Describe the task or problem]
+I was trying to find out the code to output 10 rows or last 6 rows of a dataset
 
 **What went wrong:**
-[Describe the error, confusion, or roadblock]
+I didn't know the exact code to do so.
 
 **My problem-solving process:**
-1. [First attempt - what you did and what happened]
-2. [Second attempt - what you did and what happened]
-3. [Additional attempts if relevant]
+1. I just tried to run the code as is and the output was like what the example showed because I couldn't figure it out
+2. I searched on Google to find the correct code and tried it out
 
 **Resources I consulted:**
 - [ ] Documentation for [package/function]
@@ -63,14 +62,13 @@ I have to take note of exactly what I am spelling out in my code and pay attenti
 - [ ] Course materials: [which ones]
 - [ ] Class discussion (Canvas, Slack, or in person)
 - [ ] Office hours
-- [ ] Other: [describe]
+- [x] Other: [Consulted Google]
 
 **Resolution:**
-[What ultimately worked or where you're still stuck]
+Searching up my query on Google helped turn up a solution to the simple issue.
 
 **What I learned:**
-[What did this teach you about the concept, the tool, or problem-solving?]
-
+I need to remember exactly how to solve the simple problem I have after I find out the solution so this doesn't happen again.
 ---
 
 ## Reflection
